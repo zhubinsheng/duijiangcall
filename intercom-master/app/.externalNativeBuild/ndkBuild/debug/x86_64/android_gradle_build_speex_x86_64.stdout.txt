@@ -1,0 +1,1 @@
+make: 'D:/Eliao/intercom-master/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libspeex.so' is up to date.

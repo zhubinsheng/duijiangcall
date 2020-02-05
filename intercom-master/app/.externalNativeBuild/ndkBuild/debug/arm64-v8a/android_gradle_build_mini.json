@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "D:\\Eliao\\intercom-master\\app\\src\\main\\jni\\Android.mk",
+    "D:\\Eliao\\intercom-master\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator.USER-20190130LX\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Eliao\\intercom-master\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Eliao\\intercom-master\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/Eliao/intercom-master/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Eliao\\intercom-master\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "speex-debug-arm64-v8a": {
+      "artifactName": "speex",
+      "buildCommand": "C:\\Users\\Administrator.USER-20190130LX\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\Eliao\\intercom-master\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\Eliao\\intercom-master\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/Eliao/intercom-master/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\Eliao\\intercom-master\\app\\build\\intermediates\\ndkBuild\\debug\\lib D:/Eliao/intercom-master/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libspeex.so",
+      "abi": "arm64-v8a",
+      "output": "D:\\Eliao\\intercom-master\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libspeex.so"
+    }
+  }
+}

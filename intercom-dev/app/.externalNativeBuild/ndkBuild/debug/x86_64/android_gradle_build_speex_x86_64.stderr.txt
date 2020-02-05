@@ -1,0 +1,7 @@
+D:/Eliao/intercom-dev/app/src/main/jni/./libspeex/nb_celp.c:518:17: warning: implicit conversion from 'double' to 'spx_word16_t' (aka 'short') changes value from 0.9 to 0 [-Wliteral-conversion]
+         bw_lpc(0.9, interp_lpc, bw_lpc1, NB_ORDER);
+         ~~~~~~ ^~~
+D:/Eliao/intercom-dev/app/src/main/jni/./libspeex/nb_celp.c:519:17: warning: implicit conversion from 'double' to 'spx_word16_t' (aka 'short') changes value from 0.55 to 0 [-Wliteral-conversion]
+         bw_lpc(0.55, interp_lpc, bw_lpc2, NB_ORDER);
+         ~~~~~~ ^~~~
+2 warnings generated.
